@@ -14,7 +14,7 @@
 	</engines>
 
 	<js-module name="MiniSodium" src="www/MiniSodium.js">
-		<clobbers target="window.plugins.MiniSodium"/>
+		<clobbers target="window.MiniSodium"/>
 	</js-module>
 
 	<platform name="ios">
